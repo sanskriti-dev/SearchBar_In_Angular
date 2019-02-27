@@ -1,10 +1,15 @@
-Searchbar In Angular
+     #Searchbar In Angular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.4.
-In this project there is searchbar which is used to search the repository from github. 
+
+In this project there is searchbar which is used to search the repositories from github. 
 Github API is used for the purpose of serachibng and rxjs operators(map,filter,debouncetime,distinct,etc) were used to convert the output obtained from the get request.
-Below are some screenshots of the project
+
+
+Below are some screenshots of the project-
+
 ![image](https://github.com/sanskriti-dev/SearchBar_In_Angular/blob/master/src/assets/Screenshots/searchbar1.png)
+
 ![image](https://github.com/sanskriti-dev/SearchBar_In_Angular/blob/master/src/assets/Screenshots/searchbar2.png)
 
 ## Development server
