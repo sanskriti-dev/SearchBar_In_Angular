@@ -3,7 +3,7 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.4.
 
 In this project there is searchbar which is used to search the repositories from github. 
-Github API is used for the purpose of serachibng and rxjs operators(map,filter,debouncetime,distinct,etc) were used to convert the output obtained from the get request.
+Github API is used for the purpose of searching and rxjs operators(map,filter,debouncetime,distinct,etc) were used to convert the output obtained from the get request.
 
 
 Below are some screenshots of the project-
